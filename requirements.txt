@@ -17,3 +17,6 @@ SQLAlchemy==2.0.32
 starlette==0.37.2
 typing_extensions==4.12.2
 uvicorn==0.30.6
+
+redis~=5.0.8
+aiohttp~=3.10.5
